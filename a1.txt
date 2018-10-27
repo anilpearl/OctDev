@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 it is added by window
 
 
+=======
+it is added by linux
+>>>>>>> 35ca52497abe92bf1ae90519216a48d230851a62
